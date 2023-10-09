@@ -3,4 +3,4 @@
 node_modules
 .temp
 .cache
-yogaNotes/.vuepress/dist*
+yogaNotes/.vuepress/dist/
